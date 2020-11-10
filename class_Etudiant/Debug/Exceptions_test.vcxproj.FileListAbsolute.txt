@@ -1,0 +1,2 @@
+C:\Users\useur\Desktop\projects c++\Exceptions_cpp\Exceptions_test\Debug\Exceptions_test.exe
+C:\Users\useur\Desktop\projects c++\Exceptions_cpp\Exceptions_test\Debug\Exceptions_test.pdb

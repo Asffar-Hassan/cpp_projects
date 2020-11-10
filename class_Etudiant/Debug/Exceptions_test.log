@@ -1,0 +1,3 @@
+﻿  Exceptions_test.cpp
+C:\Users\useur\Desktop\projects c++\Exceptions_cpp\Exceptions_test\Exceptions_test.cpp(49,26): warning C4018: '<' : incompatibilité signed/unsigned
+  Exceptions_test.vcxproj -> C:\Users\useur\Desktop\projects c++\Exceptions_cpp\Exceptions_test\Debug\Exceptions_test.exe
